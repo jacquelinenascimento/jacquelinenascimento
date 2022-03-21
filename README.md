@@ -5,6 +5,10 @@
 - 🤔 I’m looking for opportunities to work 
 - 😄 Pronouns: she/her
 
+<details>
+  <summary> Technologies </summary>
+<div align="left">
+  
 frontEnd: {
                 Javascript: ['React'],
                 HTML: ['HTML5'],
@@ -13,3 +17,5 @@ frontEnd: {
 backEnd: {
                 Javascript: ['Node.js']
 
+</div>
+</details>
