@@ -4,6 +4,7 @@
 - 🔭 I’m in career transition into Tech and...
 - 🤔 I’m looking for opportunities to work with it
 - 😄 Pronouns: she/her
+- Systems Development & Analysis Graduation in progress (1/5)
 
 ``` js
 technologies:
