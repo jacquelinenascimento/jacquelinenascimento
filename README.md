@@ -10,11 +10,13 @@
 technologies:
   
 frontEnd: {
-                Javascript: ['React'],
-                HTML: ['HTML5'],
-                CSS: ['Bootstrap'],
+   
+                HTML,
+                CSS,
             },
 backEnd: {
-                Javascript: ['Node.js']
+                Javascript,
+                Java,
+         }
 
 ```
